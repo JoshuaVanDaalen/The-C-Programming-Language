@@ -1,4 +1,4 @@
-# The-C-Programming-Language
+# The C Programming Language
 
 Learning C, the programming language.
 
