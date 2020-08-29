@@ -14,10 +14,12 @@ int main(int argc, char const *argv[])
 
     // print the memory value using %p
     printf("name1 --> %p\n", name1);
-    printf("name2 --> %p\n", name2);
+    printf("name2 --> %p\n\n", name2);
 
     name2 += 2;
 
+    // pointers are typed
+    // char is 1 byte long
     printf("name1 --> %p\n", name1);
     printf("name2 --> %p\n\n", name2);
 
